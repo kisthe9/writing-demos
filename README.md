@@ -9,4 +9,4 @@
 约定：
 
 - 每个 demo 零依赖、可直接运行（README 或文章内注明运行方式）
-- 文章引用格式：`https://github.com/kisthe9/writing-demos/blob/main/<dir>/<file>#Lx-Ly`
+- 文章引用格式：`https://raw.githubusercontent.com/kisthe9/writing-demos/main/<dir>/<file>`（raw 链接，行号在链接文字里标注）
